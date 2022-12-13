@@ -3,7 +3,7 @@
  
 Download test files (using Tiny-C compiler): 
 
-'''console
+'''shell
 curl -O https://netlib.org/lp/data/emps.c
 tcc -c emps.c
 tcc -o emps emps.o
